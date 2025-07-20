@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          github workflow example <code>src/App.js</code> by Rohan.
+          <code>src/App.js</code> by Rohan.
           <h1>Hello from Rohan!</h1>
         </p>
         <a
