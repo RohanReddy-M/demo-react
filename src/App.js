@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          github workflow example <code>src/App.js</code> by Rohan.
           <h1>Hello from Rohan!</h1>
         </p>
         <a
